@@ -1,0 +1,4 @@
+UI_FR = {
+    UI_trait_HandTorch = "Lampe de Poche",
+    UI_trait_HandTorchdesc = "Commencer avec une Lampe de Poche",
+}

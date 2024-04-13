@@ -1,0 +1,27 @@
+Sandbox_FR = {
+	Sandbox_Blackouts = "Blackouts Mod",
+
+	Sandbox_Blackouts_Chance = "Chance d'événement de coupure de courant %",
+	Sandbox_Blackouts_Chance_tooltip = "Chance qu'une coupure de courant se produise, chaque heure.",
+
+	Sandbox_Blackouts_Recovery = "Chance de récupération d'événement de coupure de courant %",
+	Sandbox_Blackouts_Recovery_tooltip = "Chance de récupérer d'une coupure de courant après la durée minimale, toutes les dix minutes.",
+
+	Sandbox_Blackouts_WeatherEvent = "Les tempêtes augmentent la chance de coupure de courant",
+	Sandbox_Blackouts_WeatherEvent_tooltip = "La chance de coupure de courant ajoutera un jet de dé supplémentaire lorsqu'il y a une tempête violente.",
+
+	Sandbox_Blackouts_RampUp = "La chance de coupure de courant augmente progressivement",
+	Sandbox_Blackouts_RampUp_tooltip = "La chance de coupure de courant ajoutera un jet de dé supplémentaire lorsque vous serez proche de la date de coupure.",
+
+	Sandbox_Blackouts_InitialCooldown = "Temps avant la première coupure de courant",
+	Sandbox_Blackouts_InitialCooldown_tooltip = "Nombre d'heures minimum avant la première coupure de courant.",
+
+	Sandbox_Blackouts_Duration = "Durée minimale de la coupure de courant",
+	Sandbox_Blackouts_Duration_tooltip = "Nombre d'heures minimum pour qu'une coupure de courant dure.",
+
+	Sandbox_Blackouts_Cooldown = "Temps de recharge de la coupure de courant",
+	Sandbox_Blackouts_Cooldown_tooltip = "Nombre d'heures minimum entre les coupures de courant.",
+
+	Sandbox_Blackouts_Override = "Annulation permanente de l'arrêt de l'alimentation (*OPTIONNELLE*)",
+	Sandbox_Blackouts_Override_tooltip = "Utilisez ceci si vous voulez changer manuellement la date de coupure de l'alimentation.<br>Ignoré si laissé à 0.",
+}
